@@ -34,12 +34,12 @@ in this repository. You can submit a pull request if you have forked this reposi
 ---
 # You Must Kill the Witch
 
-1. Add `Flying Monkeys` to `Oz`
+1. Add `Flying Monkeys` to `Oz/`
 1. Remove `Wicked Witch of the West`
 1. Give the gifts*
-    1. Give `Scarecrow` a `diploma`
-    1. Give `Tin Man` a `heart shaped watch`
-    1. Give `Lion` a `medal`
+    1. Give `Scarecrow` a `"diploma"`
+    1. Give `Tin Man` a `"heart shaped watch"`
+    1. Give `Lion` a `"medal"`
 
 *: to give gifts, `echo` the giftname into the appropriate file. *Hint: google "how to redirect output of echo to a file"*
 
