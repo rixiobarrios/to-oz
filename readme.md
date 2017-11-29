@@ -39,7 +39,7 @@ in this repository. You can submit a pull request if you have forked this reposi
 1. Give the gifts*
     1. Give `Scarecrow` a `"diploma"`
     1. Give `Tin Man` a `"heart shaped watch"`
-    1. Give `Lion` a `"medal"`
+    1. Give `Cowardly Lion` a `"medal"`
 
 *: to give gifts, `echo` the giftname into the appropriate file. *Hint: google "how to redirect output of echo to a file"*
 
