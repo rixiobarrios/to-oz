@@ -2,8 +2,10 @@
 
 Follow the steps below.
 
-Copy and paste your terminal commands into the `solution.txt` file provided
-in this repository. You can submit a pull request if you have forked this repository, or you may post an issue on this repository with the contents of your `solution.txt`.
+Copy and paste your terminal commands into the `solution.txt` file provided in
+this repository. You can submit a pull request if you have forked this
+repository, or you may post an issue on this repository with the contents of
+your `solution.txt`.
 
 1. Create directory `House/`
 1. Add files: `Dorothy` and `Toto` to `House/`
@@ -41,7 +43,8 @@ in this repository. You can submit a pull request if you have forked this reposi
     1. Give `Tin Man` a `"heart shaped watch"`
     1. Give `Cowardly Lion` a `"medal"`
 
-*: to give gifts, `echo` the giftname into the appropriate file. *Hint: google "how to redirect output of echo to a file"*
+*: to give gifts, `echo` the giftname into the appropriate file. *Hint: google
+"how to redirect output of echo to a file"*
 
 ---
 
