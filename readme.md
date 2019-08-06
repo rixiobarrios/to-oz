@@ -7,12 +7,13 @@ their way through Oz!
 
 ## Prerequisites
 
-* Working with the command line
+- Working with the command line
 
 ## Instructions
 
 1. Create a new issue on this repository
-1. Work through the prompts below, adding the solution to each prompt to the body of your issue
+1. Work through the prompts below, adding the solution to each prompt to the
+   body of your issue
 1. When you finish, submit your issue.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
@@ -28,18 +29,20 @@ Work through the following prompts:
 1. Add files: `Dorothy` and `Toto` to `House/`
 1. Create directory `Oz/`
 1. Add files for the 4 Witches to `Oz/`...
-  - `Good_Witch_of_the_North`
-  - `Wicked_Witch_of_the_East`
-  - `Good_Witch_of_the_South`
-  - `Wicked_Witch_of_the_West`
+   - `Good_Witch_of_the_North`
+   - `Wicked_Witch_of_the_East`
+   - `Good_Witch_of_the_South`
+   - `Wicked_Witch_of_the_West`
 
 ---
+
 ### Ding! Dong! The Witch is Dead
 
 1. Delete: `Wicked_Witch_of_the_East`
 1. Move `Dorothy` from `House/` to `Oz/`
 
 ---
+
 ### Follow the Yellow Brick Road
 
 > In the directory `Oz/`...
@@ -51,16 +54,18 @@ Work through the following prompts:
 1. Move 'the gang' to `Emerald_City/`
 
 ---
+
 ### You Must Kill the Witch
 
 1. Add `Flying_Monkeys` to `Oz/`
 1. Remove `Wicked_Witch_of_the_West`
-1. Give the gifts*
-    1. Give `Scarecrow` a `"diploma"`
-    1. Give `Tin_Man` a `"heart shaped watch"`
-    1. Give `Cowardly_Lion` a `"medal"`
+1. Give the gifts\*
+   1. Give `Scarecrow` a `"diploma"`
+   1. Give `Tin_Man` a `"heart shaped watch"`
+   1. Give `Cowardly_Lion` a `"medal"`
 
-> To give gifts, `echo` the gift name into the appropriate file. *Hint: google "how to redirect output of echo to a file"*
+> To give gifts, `echo` the gift name into the appropriate file. _Hint: google
+> "how to redirect output of echo to a file"_
 
 ---
 
@@ -68,7 +73,9 @@ Work through the following prompts:
 
 ## Plagiarism
 
-Take a moment to refamiliarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.
+Take a moment to refamiliarize yourself with the
+[Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md).
+Plagiarized work will not be accepted.
 
 ## [License](LICENSE)
 
