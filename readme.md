@@ -23,6 +23,8 @@ the next morning by 10:00am.
 
 Work through the following prompts:
 
+> NOTE: When it asks you to create a file (**not directories**), make them `.txt` file-types! 
+
 ### Setup
 
 1. Create directory `House/`
